@@ -1,0 +1,10 @@
+<keymap version="1" name="ToboSetting" parent="$default">
+  <action id="EditorChooseLookupItemCompleteStatement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="#10000a7" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorSplitLine" />
+</keymap>
