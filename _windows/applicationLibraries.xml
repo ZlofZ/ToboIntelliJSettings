@@ -5,6 +5,13 @@
     </gwt-sdk-list>
   </component>
   <component name="libraryTable">
+    <library name="JDA-3.0.0_191-withDependencies">
+      <CLASSES>
+        <root url="jar://D:/Tobias/Downloads/JDA-3.0.0_191-withDependencies.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Jersey-2.2" type="JAX-RS">
       <properties version="2.2" />
       <CLASSES>
