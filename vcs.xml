@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/ZlofZ/TobosFirstAndroidApp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/google/google-api-java-client-samples" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Tobias\Documents\IntelliJProjects" />
+    <option name="cloneParentDir" value="D:\Tobias\Documents\IntelliJProjects\googleOauth" />
   </component>
 </application>
