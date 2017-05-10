@@ -5,6 +5,22 @@
     </gwt-sdk-list>
   </component>
   <component name="libraryTable">
+    <library name="google-oauth-client-assembly-1.22.0-1.22.0 (1)">
+      <CLASSES />
+      <JAVADOC />
+      <NATIVE>
+        <root url="jar://D:/GoogleOauth/google-oauth-client-assembly-1.22.0-1.22.0 (1).zip!/" />
+      </NATIVE>
+      <SOURCES />
+    </library>
+    <library name="google-oauth-java-client">
+      <CLASSES>
+        <root url="file://D:/GoogleOauth/google-oauth-java-client" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://D:/GoogleOauth/google-oauth-java-client" recursive="false" />
+    </library>
     <library name="JDA-3.0.0_191-withDependencies">
       <CLASSES>
         <root url="jar://D:/Tobias/Downloads/JDA-3.0.0_191-withDependencies.jar!/" />
@@ -24,6 +40,17 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="libs">
+      <CLASSES>
+        <root url="file://D:/GoogleOauth/google-oauth-java-client/libs" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/GoogleOauth/google-oauth-java-client/libs" />
+      </SOURCES>
+      <jarDirectory url="file://D:/GoogleOauth/google-oauth-java-client/libs" recursive="false" />
+      <jarDirectory url="file://D:/GoogleOauth/google-oauth-java-client/libs" recursive="false" type="SOURCES" />
     </library>
   </component>
 </application>
