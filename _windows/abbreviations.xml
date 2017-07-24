@@ -1,9 +1,0 @@
-<application>
-  <component name="AbbreviationManager">
-    <abbreviations>
-      <action id="EditorCompleteStatement">
-        <abbreviation name="completeStatement" />
-      </action>
-    </abbreviations>
-  </component>
-</application>
